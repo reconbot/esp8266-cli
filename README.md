@@ -1,4 +1,6 @@
 # An ESP8266 command line interface.
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/esp8266-cli.svg)](https://greenkeeper.io/)
 Administer the file system and more on an ESP8266 that is flashed with [NodeMcu firmware](https://github.com/nodemcu/nodemcu-firmware).
 
 ## Install
